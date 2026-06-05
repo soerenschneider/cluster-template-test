@@ -28,4 +28,4 @@ uv = "0.5.18"
 "aqua:kubernetes/kubectl" = ["1.32.0"]
 "aqua:mikefarah/yq" = ["4.45.1"]
 "aqua:siderolabs/talos" = ["1.9.1"]
-"aqua:yannh/kubeconform" = ["0.6.7"]
+"aqua:yannh/kubeconform" = ["0.8.0"]
